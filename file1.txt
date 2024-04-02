@@ -1,1 +1,1 @@
-i am slave branch
+this is code from remote repo
