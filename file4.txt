@@ -1,1 +1,1 @@
-master file 5
+slave file 5
